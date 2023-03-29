@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/lovetwo.png"  ]
+[preload  storage="./data/bgimage/GoodEnd01.png"  ]
+[preload  storage="./data/fgimage/default/rowan.png"  ]
+[preload  storage="./data/bgimage/GoodEnd02.png"  ]
+[preload  storage="./data/bgimage/rowan.png"  ]
+[preload  storage="./data/bgimage/GoodEnd03.png"  ]
+[preload  storage="./data/bgimage/friderrick.png"  ]
+[return] 
